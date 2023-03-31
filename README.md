@@ -2,7 +2,7 @@
 
 ### Ou augustomdn, você é quem manda!✌🏾
 
-<p>Tenho 26 anos e no momento estou cursando Análise e Desenvolvimento de Sistemas, meu foco é me tornar um desenvolvedor Full-Stack portanto sigo estudando e praticando árduamente para que isso se concretize!</p>
+<p>Tenho 27 anos e no momento estou cursando Análise e Desenvolvimento de Sistemas, meu foco é me tornar um desenvolvedor Full-Stack portanto sigo estudando e praticando árduamente para que isso se concretize!</p>
 
 <p>Algumas curiosidades sobre mim:</>
 </br>
