@@ -2,7 +2,7 @@
 
 ### Ou augustomdn, você é quem manda!✌🏾
 
-<p>Tenho 27 anos e no momento estou cursando Análise e Desenvolvimento de Sistemas, meu foco é me tornar um desenvolvedor Full-Stack portanto sigo estudando e praticando árduamente para que isso se concretize!</p>
+<p>Me tornar um Desenvolvedor foi a melhor escolha que eu poderia ter feito, através de muito estudo e trabalho árduo eu consigo desfrutar das mais incríveis experiências que a vida e a carreira pode me proporcionar, fora as ilustres amizades que esta trilha me trouxe... </p>
 
 <p>Algumas curiosidades sobre mim:</>
 </br>
@@ -10,6 +10,7 @@
 <ul>
   <li>Um dos meus hobbies é jogar Basquete ⛹🏾‍♂️</li>
   <li>Gosto de programar escutando R&B 🎶</li>
+  <li>Atualmente estou Programando em Flutter🎶</li>
   <li>Meu super-herói preferido é o Spider-Man, especificamente o Miles Morales 🕸️</li>
 </ul>
 <img align="right" src="https://media.discordapp.net/attachments/988688868578578432/989757805802184734/pngwing.com.png"/>
