@@ -10,7 +10,7 @@
 <ul>
   <li>Um dos meus hobbies é jogar Basquete ⛹🏾‍♂️</li>
   <li>Gosto de programar escutando R&B 🎶</li>
-  <li>Atualmente estou Programando em Flutter🎶</li>
+  <li>Atualmente estou Trabalhando como desenvolvedor Flutter🎶</li>
   <li>Meu super-herói preferido é o Spider-Man, especificamente o Miles Morales 🕸️</li>
 </ul>
 <img align="right" src="https://media.discordapp.net/attachments/988688868578578432/989757805802184734/pngwing.com.png"/>
